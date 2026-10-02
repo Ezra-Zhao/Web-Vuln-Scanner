@@ -1,5 +1,10 @@
 # Web-Vuln-Scanner
 
+**[English](README.md)** | [简体中文](README.zh-CN.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [Español](README.es.md) | [Português](README.pt.md) | [Русский](README.ru.md)
+
+![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue) ![License: MIT](https://img.shields.io/badge/license-MIT-green) ![Status: scaffold](https://img.shields.io/badge/status-scaffold_v0.1-orange)
+
+
 A lightweight, ethics-first web vulnerability scanner in Python — built as a hands-on
 learning project alongside a Master's in Cybersecurity (WGU, in progress).
 
